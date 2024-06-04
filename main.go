@@ -1,5 +1,15 @@
 package main
 
+// NÄR VI GÖR  MANUELLA TESTER PÅ DET HÄR SÄTTET
+// så AAA
+// Arrange
+// Act
+// Assert - verifikation
+
+// Arrange
+// Act
+// Assert - verifikation
+
 import (
 	"net/http"
 	"os"
